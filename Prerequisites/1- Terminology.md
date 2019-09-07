@@ -32,7 +32,7 @@ Working Directory refers to the directory where there are updates made to the co
 
 A file in the git directory that stores information about what will go into the next commit. The staging area is like a prep table where it will take the next commit. Files on the staging index are poised to be added to the repository
 
-**SHA: **
+**SHA:**
 
 SHA refers to a unique identification number for each commit. SHA is a 40 character string command composed of characters( 0 to 9) and (a-f) and is calculated based on contents of files in it. SHA stands for Secure Hash Algorithm 
 
